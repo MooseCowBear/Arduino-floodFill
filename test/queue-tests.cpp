@@ -59,4 +59,6 @@ int main() {
   testEmpty();
   testPushingAndPopping();
   testWrapping();
+
+  return 0;
 }
